@@ -2,7 +2,7 @@
 
 Implementing handwritten digit recognition using the MicroBlaze soft processor to accurately predict handwritten digits between 0-9 on FPGA hardware
 
-![MicroBlaze Block Diagram](https://github.com/ved-tiwari/fpga_digit_recognition/blob/main/block_diagram.PNG)
+![MicroBlaze Block Diagram](https://github.com/ved-tiwari/fpga_digit_recognition/blob/main/download.png)
 
 ## Project Overview
 
