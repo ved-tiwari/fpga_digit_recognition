@@ -55,7 +55,8 @@ void p() {
 ### Tools
 - **Vivado** 2022.4
 - **Vitis SDK**
-- **Python** for scripting
+- **TensorFlow**
+- **C/C++**
 
 ### Hardware
 - **RealDigital Urbana** FPGA Board  
